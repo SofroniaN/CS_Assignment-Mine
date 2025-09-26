@@ -6,3 +6,6 @@ The title of the following papers pivotal to our knowledge:
     "Effect of a nurse back injury prevention intervention on the rate of injury compensation claims"
   - DW Ziegler et al., 2005
     "Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients"
+
+Plot
+![Alt text for the image](correlation_plot.png)
